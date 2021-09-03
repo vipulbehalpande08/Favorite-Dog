@@ -1,0 +1,10 @@
+.nav{
+    background: linear-gradient(90deg, rgba(26,26,29,1) 0%, rgba(91,31,46,1) 0%, rgba(115,31,51,1) 100%, rgba(149,7,64,1) 100%, rgba(111,34,50,1) 100%);
+    
+}
+*{
+    color:white;
+}
+a{
+    color:white !important;
+}
